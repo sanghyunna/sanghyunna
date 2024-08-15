@@ -3,8 +3,17 @@
 <!-- 소개 -->
 <div align="left">
   <h2>🙂 반가워요</h2>
-  <p>🏫 <strong>중앙대학교 소프트웨어학부</strong>에 재학 중이에요 </p>
-  <p>🌱 가끔 글을 써요 <a href="https://velog.io/@sanghyunna"><img src="https://velog-readme-stats.vercel.app/api/badge?name=sanghyunna"/></a>
+  <p>🏫 <strong>중앙대학교 소프트웨어학부</strong>에 재학 중이에요. </p>
+  <p>🧪 <strong>UCLAB</strong>에 학부연구생으로 있어요.<br>
+    <ul><a href="https://uclab.re.kr/">
+      <img src="https://img.shields.io/badge/Link-Ultra_Intelligent_Computing%2FCommunication_Lab-informational" alt="Link - Ultra Intelligent Computing/Communication Lab">
+    </a>
+    </ul>
+  </p>
+  <p>🌱 가끔 글을 써요. <br>
+    <ul>
+      <a href="https://velog.io/@sanghyunna"><img src="https://velog-readme-stats.vercel.app/api/badge?name=sanghyunna"/></a>
+    </ul>
   </p>
   <p>💬 이야기하기를 좋아해요. 기술에 관한 주제라면 뭐든😁</p>
 </div>
@@ -41,7 +50,7 @@
 <h2>😎 이런 프로젝트를 하고 있어요</h2>
 <div align="left">
   <h3>👕국내 의류 쇼핑몰 이용 경험 향상을 위한 VITON(VIrtual Try-ON) 모델 기반 가상 피팅 확장 프로그램</h3>
-  <p><strong>Based on :</strong><br>
+  <p><ul><strong>Based on :</strong><br>
     <a href="https://arxiv.org/pdf/2206.14180">
       <img src="https://img.shields.io/badge/Paper-High--Resolution_Virtual_Try--On_with_Misalignment_and_Occlusion--Handled_Conditions-2ea44f" alt="Paper - High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions">
     </a>
@@ -49,18 +58,21 @@
     <a href="https://ieeexplore.ieee.org/document/9924990">
       <img src="https://img.shields.io/badge/Paper-High--quality_3D_Clothing_Reconstruction_and_Virtual--Try--On%3A_Pants_case-blue" alt="Paper - High-quality 3D Clothing Reconstruction and Virtual-Try-On: Pants case">
     </a>
+    </ul>
   </p>
   <h3>📊[Dacon] Image Quality Assessment</h3>
-  <p><strong>Link :</strong><br>
+  <p><ul><strong>Link :</strong><br>
     <a href="https://dacon.io/competitions/official/236134/overview/">
       <img src="https://img.shields.io/badge/Link-2023_Samsung_AI_Challenge_%3A_Image_Quality_Assessment-orange" alt="Link - 2023 Samsung AI Challenge : Image Quality Assessment">
     </a>
+    </ul>
   </p>
   <h3>🤖LG Aimers 5th - Phase 2</h3>
-  <p><strong>Link :</strong><br>
+  <p><ul><strong>Link :</strong><br>
     <a href="https://lgaimers5th.elice.io/explore">
       <img src="https://img.shields.io/badge/Link-LG_Aimers_Phase_2-cd3289" alt="Link - LG Aimers Phase 2">
     </a>
+    </ul>
   </p>
 </div>
 <br>
