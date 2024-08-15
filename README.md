@@ -49,6 +49,7 @@
 <!-- 진행 중인 프로젝트 -->
 <h2>😎 이런 프로젝트를 하고 있어요</h2>
 <div align="left">
+  
   <h3>👕국내 의류 쇼핑몰 이용 경험 향상을 위한 VITON(VIrtual Try-ON) 모델 기반 가상 피팅 확장 프로그램</h3>
   <p><ul><strong>Based on :</strong><br>
     <a href="https://arxiv.org/pdf/2206.14180">
@@ -60,6 +61,7 @@
     </a>
     </ul>
   </p>
+  
   <h3>📊[Dacon] Image Quality Assessment</h3>
   <p><ul><strong>Link :</strong><br>
     <a href="https://dacon.io/competitions/official/236134/overview/">
@@ -67,6 +69,16 @@
     </a>
     </ul>
   </p>
+  
+  <h3>🖥️NVIDIA DLI : Generative AI with Diffusion Models Course</h3>
+  <p><ul><strong>Link :</strong><br>
+    <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-14+V1/">
+      <img src="https://img.shields.io/badge/Link-NVIDIA_%3A_Generative_AI_with_Diffusion_Models-success" alt="Link - NVIDIA : Generative AI with Diffusion Models">
+    </a>
+    </ul>
+  </p>
+</div>
+  
   <h3>🤖LG Aimers 5th - Phase 2</h3>
   <p><ul><strong>Link :</strong><br>
     <a href="https://lgaimers5th.elice.io/explore">
