@@ -59,6 +59,9 @@
     <a href="https://ieeexplore.ieee.org/document/9924990">
       <img src="https://img.shields.io/badge/Paper-High--quality_3D_Clothing_Reconstruction_and_Virtual--Try--On%3A_Pants_case-blue" alt="Paper - High-quality 3D Clothing Reconstruction and Virtual-Try-On: Pants case">
     </a>
+    <a href="https://arxiv.org/abs/2312.01725">
+      <img src="https://img.shields.io/badge/Paper-StableVITON%3A_Learning_Semantic_Correspondence_with_Latent_Diffusion_Model_for_Virtual_Try--On-important" alt="Paper - StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On">
+    </a>
     </ul>
   </p>
   
