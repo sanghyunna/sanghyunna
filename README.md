@@ -64,15 +64,7 @@
     </a>
     </ul>
   </p>
-  
-  <h3>📊[Dacon] Image Quality Assessment</h3>
-  <p><ul><strong>Link :</strong><br>
-    <a href="https://dacon.io/competitions/official/236134/overview/">
-      <img src="https://img.shields.io/badge/Link-2023_Samsung_AI_Challenge_%3A_Image_Quality_Assessment-orange" alt="Link - 2023 Samsung AI Challenge : Image Quality Assessment">
-    </a>
-    </ul>
-  </p>
-  
+
   <h3>🖥️NVIDIA DLI : Generative AI with Diffusion Models Course</h3>
   <p><ul><strong>Link :</strong><br>
     <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-14+V1/">
@@ -81,7 +73,16 @@
     </ul>
   </p>
 </div>
-  
+
+<!-- ** FINISHED PROJECTS **
+  <h3>📊[Dacon] Image Quality Assessment</h3>
+  <p><ul><strong>Link :</strong><br>
+    <a href="https://dacon.io/competitions/official/236134/overview/">
+      <img src="https://img.shields.io/badge/Link-2023_Samsung_AI_Challenge_%3A_Image_Quality_Assessment-orange" alt="Link - 2023 Samsung AI Challenge : Image Quality Assessment">
+    </a>
+    </ul>
+  </p>
+
   <h3>🤖LG Aimers 5th - Phase 2</h3>
   <p><ul><strong>Link :</strong><br>
     <a href="https://lgaimers5th.elice.io/explore">
@@ -91,7 +92,7 @@
   </p>
 </div>
 <br>
-
+ -->
 <!-- 통계 -->
 <h2>📈 통계</h2>
 
