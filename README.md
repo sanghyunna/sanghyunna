@@ -74,11 +74,12 @@
   </p>
   
   <h3>🔠NVIDIA and LlamaIndex Developer Contest</h3>
-  <p><ul><strong>Link :</strong><br>
+  <p><ul>
+    RAG와 PEFT를 활용한 KoLlama-8B-based 로컬 코파일럿<br>
+    <strong>Link :</strong><br>
     <a href="https://developer.nvidia.com/llamaindex-developer-contest">
       <img src="https://img.shields.io/badge/Link-NVIDIA_and_LlamaIndex_Developer_Contest-orange" alt="Link - NVIDIA and LlamaIndex Developer Contest">
     </a>
-    RAG와 PEFT를 활용한 KoLlama-8B-based 로컬 코파일럿
     </ul>
   </p>
 </div>
