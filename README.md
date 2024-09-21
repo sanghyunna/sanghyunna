@@ -72,7 +72,18 @@
     </a>
     </ul>
   </p>
+  
+  <h3>🔠NVIDIA and LlamaIndex Developer Contest</h3>
+  <p><ul><strong>Link :</strong><br>
+    <a href="https://developer.nvidia.com/llamaindex-developer-contest">
+      <img src="https://img.shields.io/badge/Link-NVIDIA_and_LlamaIndex_Developer_Contest-orange" alt="Link - NVIDIA and LlamaIndex Developer Contest">
+    </a>
+    </ul>
+  </p>
 </div>
+
+
+
 
 <!-- ** FINISHED PROJECTS **
   <h3>📊[Dacon] Image Quality Assessment</h3>
