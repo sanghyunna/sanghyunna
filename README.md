@@ -4,10 +4,8 @@
 <div align="left">
   <h2>🙂 반가워요</h2>
   <p>🏫 <strong>중앙대학교 소프트웨어학부</strong>에 재학 중이에요. </p>
-  <p>🧪 <strong>UCLAB</strong>에 학부연구생으로 있어요.<br>
-    <ul><a href="https://uclab.re.kr/">
-      <img src="https://img.shields.io/badge/Link-Ultra_Intelligent_Computing%2FCommunication_Lab-informational" alt="Link - Ultra Intelligent Computing/Communication Lab">
-    </a>
+  <p>🧪 <strong>MULTILAB</strong>에 학부연구생으로 있어요.<br>
+    <ul><a href="https://www.multilab.cau.ac.kr/"><img src="https://img.shields.io/badge/Link-Multimodal_Understanding_for_Large--scale_Transferable_Intelligence-blue" alt="Link - Multimodal Understanding for Large-scale Transferable Intelligence"></a>
     </ul>
   </p>
   <p>🌱 가끔 글을 써요. <br>
